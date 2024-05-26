@@ -6,7 +6,7 @@ import { xpRange } from '../lib/levelling.js'
   let tags = {
   'main': '𝐈𝐍𝐅𝐎 ⚙️',
   'search': '𝐁𝐔𝐒𝐐𝐔𝐄𝐃𝐀𝐒 🔍',
-  'jadibot': '𝐒𝐄𝐑 𝐉𝐀𝐃𝐈𝐁𝐎𝐓𝐒 🤖',
+  'jadibot': 'قسم الالعاب 🤖',
   'rpg': '𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀 🪙',
   'rg': '𝐑𝐑𝐆𝐈𝐒𝐓𝐑𝐎 📇',
   'sticker': '𝐒𝐓𝐈𝐂𝐊𝐄𝐑 ✨️',
@@ -34,7 +34,7 @@ import { xpRange } from '../lib/levelling.js'
   'owner': '𝐃𝐄𝐒𝐀𝐑𝐑𝐎𝐋𝐋𝐀𝐃𝐎𝐑 🍄', 
   'audio': '𝐄𝐅𝐄𝐂𝐓𝐎 𝐀𝐔𝐃𝐈𝐎 🍂', 
   'info': '𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 🍭',
-  'ai': '𝐀𝐈 🌹',
+  'ai': 'قسم الذكاءالاصطناعي 🌹',
   'adm': '𝐀𝐃𝐌𝐈𝐍 🎌',
   'General': '𝐆𝐄𝐍𝐄𝐑𝐀𝐋 🔮',
   'maker': '𝐌𝐀𝐊𝐄𝐑 🌳',
@@ -44,19 +44,19 @@ import { xpRange } from '../lib/levelling.js'
 const defaultMenu = {
   before: `> %greeting %taguser
 
-      ⬣〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑 🍂  〕⬣
+      ⬣〔  𝐁𝐎𝐓-𝗟𝐎𝐒𝐄𝐅𝐀𝐑  〕⬣
 
-✰્᭄͜͡ 🆄︎sᴇʀ: %name
-✰્᭄͜͡ 🄴xᴘ: %totalexp
-✰્᭄͜͡ 🅳︎ɪᴀᴍᴀɴᴛᴇs: %limit
-✰્᭄͜͡ 🄽ɪᴠᴇʟ: %level
+✰્᭄͜͡ مرحبأ: %name
+✰્᭄͜͡ المستخدمين: %totalexp
+✰્᭄͜͡ المحظورين: %limit
+✰્᭄͜͡ مستواك: %level
 
-      ⬣〔  𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 🍄  〕⬣
+      ⬣〔  معلومات  〕⬣
 
-✰્᭄͜͡ 🅲︎ʀᴇᴀᴅᴏʀ: %author
-✰્᭄͜͡ 🅁ᴜɴᴛɪᴍᴇ: %muptime
-✰્᭄͜͡ 🆄︎sᴜᴀʀɪᴏs: %totalreg
-✰્᭄͜͡ 🅅ᴇʀᴄɪᴏɴ: 1.0.7
+✰્᭄͜͡ المطور: %author
+✰્᭄͜͡ الوقت: %muptime
+✰્᭄͜͡ الاستخدام: %totalreg
+✰્᭄͜͡ المنصه: هيركوه
 %sbot
 %readmore
          *乂 ⺀ ʟɪꜱᴛᴀ - ᴄᴏᴍᴀɴᴅᴏꜱ ⺀ 乂*
