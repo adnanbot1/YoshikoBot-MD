@@ -197,9 +197,9 @@ m.react('🌸')
   }
 }
 
-handler.help = ['allmenu']
+handler.help = ['اوامر']
 handler.tags = ['main']
-handler.command = ['herramientas', 'herramienta', 'allmenú', 'allmenu'] 
+handler.command = ['اوامر', 'الاوامر', 'allmenú', 'menu'] 
 handler.register = true 
 export default handler
 
