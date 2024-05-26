@@ -13,22 +13,22 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['573012482597', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
-['51935499065', 'Oᴡɴᴇʀ 👑', true],
-['51944167935'],
-['5214434703586'],
-['5492266613038'],
-['593968263524']]
+['967776643812', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
+['967776643812', 'Oᴡɴᴇʀ 👑', true],
+['967776643812'],
+['967776643812'],
+['967776643812'],
+['967776643812']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
-["573012482597", '𝗢𝗳𝗰 𝗗𝗶𝗲𝗴𝗼 👑', 1],
-["5214434703586", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 💖', 1],
-["447700168473", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
-["51935499065", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
-["51944167935", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 🌺', 1]]
+["967776643812", '𝗢𝗳𝗰 𝗗𝗶𝗲𝗴𝗼 👑', 1],
+["967776643812", '𝗢𝗳𝗰 𝗢𝘄𝗻𝗲𝗿 💖', 1],
+["967776643812", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🐈', 1],
+["967776643812", '𝗢𝗳𝗰 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💻', 1],
+["967776643812", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 🌺', 1]]
 
-global.suittag = ['573012482694']
+global.suittag = ['967776643812']
 global.prems = []
 
 global.lenguajeYL = es //idioma de yoshiko
@@ -99,7 +99,7 @@ global.wm2 = `${dia} ${fecha}\nYoshiko`;
 global.gt = 'Yoshiko';
 global.yoshiko = 'Yoshiko';
 global.yoshiko = 'https://github.com/Diego-YL-177/YoshikoBot-MD';
-global.nomorown = '573012482597';
+global.nomorown = '967776643812';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
