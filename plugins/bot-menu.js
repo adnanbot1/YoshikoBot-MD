@@ -30,13 +30,13 @@ const fload = { key : { message: `YoshikoBot - MD⌨️` + `\nDiego.Ofc`, thumbn
 
 m.react('📒') 
 
-let menu = `☄️ !Hola¡ ${user}
+let menu = `☄️ !اهلا بك في بوت لوسيفار يا¡ ${user}
 
 !allmenu
-*(Para ver el menú completo)*
+*(اكتب .اوامر لظهور القائمه لاتنسي التسجيل قبل)*
 
 !owner
-*(Para ver el propietario del bot)*`
+*(الرجأ استخدام البوت في ما يرضي الله)*`
 
 await conn.reply(m.chat, menu, fkontak, { contextInfo: { externalAdReply: {title: '👋🏻 ¡Hola! ' + user, body: wm, sourceUrl: md, thumbnail: await (await fetch(pp)).buffer() }}})
 
