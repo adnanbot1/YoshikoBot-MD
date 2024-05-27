@@ -1,21 +1,20 @@
-> 💻☄️ Versión Del Bot: 1.0.7
+> 🚀🌸 Versión Actual: 1.0.7
 
-## Yoshiko - Bot - MD ☄️
+## Yoshiko Bot - MD 🌸☄️
+
 <p align="center">
-<img src= "https://telegra.ph/file/d5be16af7f954c52f00b1.jpg" alt="Yoshiko" width="900"/>
+<img src= "https://telegra.ph/file/edc6a4216cb588a0b3c02.jpg" alt="Yoshiko" width="900"/>
 </p>
 
+### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
 
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
-
-> Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo.🟢
+> Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo.🟢
 
 <a href="https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yoshiko-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### ⚙️ Configuracion
  Clonar Repo : Yoshiko [Aqui.](https://github.com/Diego-YL-177/YoshikoBot-MD/fork)
-
 
 
 - ###  ⌨️ Instalar Por Render
@@ -27,9 +26,9 @@
 [`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=738341999&ref=master&geo=UsEast)
 ***
 
-- #### 💻 Instalacion Por Termux
+- ### 💻 Instalacion Por Termux
 
-[![blog](https://img.shields.io/badge/Instalacion-Yoshiko-00FFFF?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/Instalacion-Yoshiko-FFFF00?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/9-v4XwMTJYE?si=STdO2GwZR1GAmXfA)
 
 [`🏷 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
@@ -64,9 +63,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd YoshikoBot-MD
-> rm -rf sessions
+> rm -rf YoshiSession
 > npm start
 ```
+
+- ### 🚀 Usar YoshikoBot 24/7 En Termux 
+```bash
+> termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
+``` 
 - ### ✅️ Actualizar Yoshiko 
 > Note Comandos para actualizar Yoshiko - MD de forma automática
 ```bash
@@ -90,20 +94,23 @@ Para que no pierda su progreso en Yoshiko, estos comandos realizarán un respald
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
 - **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - Yoshiko Bot**</summary><img src="https://telegra.ph/file/6dfa52859fc4e3ff83fb4.png"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - Yoshiko Bot**</summary><img src="https://telegra.ph/file/663a591855de5bd01b7ae.jpg"></details>
 
 ***
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
 
-<a href="https://wa.me/573218138672?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-FFFF00?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/50232432639?text=!menu"><img alt="Bot Oficial 1 ☄️" src="https://img.shields.io/badge/Bot - Oficial 1-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-> No Spam Al Bot!
+<a href="https://wa.me/50250969900?text=!menu"><img alt="Bot Oficial 2 ☄️" src="https://img.shields.io/badge/Bot - Oficial 2-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+> No Spam A Las Bots!
 ---------
 
-### Editor Y Propietario Del Bot 🌹⚡️
+### Editor Y Propietario De La Bot 🌹⚡️
 <a
 href="https://github.com/Diego-YL-177"><img src="https://github.com/Diego-YL-177.png" width="200" height="200" alt="Diego"/></a>
 
 ## Colaboradores De La Bot ✨️     
-[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs) [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) [![MoonContentCreator](https://github.com/MoonContentCreator.png?size=100)](https://github.com/MoonContentCreator)
+[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs) [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) [![MoonContentCreator](https://github.com/MoonContentCreator.png?size=100)](https://github.com/MoonContentCreator) [![Alba070503](https://github.com/Alba070503.png?size=100)](https://github.com/Alba070503)

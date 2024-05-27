@@ -35,6 +35,8 @@ let texto = `╭━〔  𝐁𝐎𝐓 𝗟𝐎𝐒𝐄𝐅𝐀𝐑  〕⬣
 ┃ • *رام:* ${format(totalmem() - freemem())} / ${format(totalmem())}
 ╰━━━━━━━━━━━━⬣`.trim()
 
+m.react('✈️')
+
 conn.sendMessage(m.chat, { text: texto, contextInfo: { externalAdReply: { title: packname, body: team, thumbnailUrl: 'https://telegra.ph/file/623f6e25bee4a80a6cd52.jpg', sourceUrl: '', mediaType: 1, renderLargerThumbnail: true }}})
 
 }
